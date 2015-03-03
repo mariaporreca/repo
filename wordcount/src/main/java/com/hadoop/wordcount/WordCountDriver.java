@@ -13,6 +13,8 @@ import org.apache.hadoop.util.ToolRunner;
 
 /**
  * Created by maria.porreca on 3/2/15.
+ *
+ * comment example
  */
 
 public class WordCountDriver extends Configured implements Tool {
@@ -41,4 +43,5 @@ public class WordCountDriver extends Configured implements Tool {
         return success ? 0 : 1;
     }
 }
+
 
