@@ -15,6 +15,8 @@ import org.apache.hadoop.util.ToolRunner;
  * Created by maria.porreca on 3/2/15.
  *
  * comment example
+ *
+ * comment for branch iss2
  */
 
 public class WordCountDriver extends Configured implements Tool {
