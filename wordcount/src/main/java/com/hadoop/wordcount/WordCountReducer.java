@@ -6,6 +6,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import java.io.IOException;
 /**
  * Created by maria.porreca on 3/2/15.
+ * @author maria.porreca
  */
 
 
