@@ -1,10 +1,10 @@
 package com.hadoop.soccerLeague;
 
 /**
- * Hello world!
+ * Created by maria.porreca on 3/6/15.
  *
  */
-public class App 
+public class soccerLeagueDriver
 {
     public static void main( String[] args )
     {
