@@ -36,6 +36,13 @@
             <scope>test</scope>
             <classifier>hadoop2</classifier>
         </dependency>
+
+      <dependency>
+          <groupId>org.apache.poi</groupId>
+          <artifactId>poi</artifactId>
+          <version>3.8</version>
+      </dependency>
+
     </dependencies>
 
     <build>
